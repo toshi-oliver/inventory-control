@@ -1,0 +1,2 @@
+# inventory-control
+ReactとAmplifyを使用して在庫管理システムを作る
