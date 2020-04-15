@@ -1,8 +1,9 @@
 # About this repository
 
-- 技術書典7で出典した「AppSync & Amplify によるサーバーレス開発入門」内で題材となるアプリケーションです。
+React と Amplify を使用して在庫管理システムを作る
 
 # Setup
+
 - React v16.9.0
 - Node.js v10.16.0
 
